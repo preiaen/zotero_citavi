@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <CitaviExchangeData Version="6.11.0.0" ConnectionIdentifier="test-project-v2.ctv6" Changeset="2">
   <ProjectSettings>
     <AttachmentsFolderPath></AttachmentsFolderPath>
@@ -155,6 +155,18 @@
       <SortFullName>satoshi nakamoto</SortFullName>
       <UniqueFullName>f1130583fb990563e3e5c23c120140f2dfc011ac</UniqueFullName>
     </Person>
+   <Person id="aac1760d-7417-45f8-a852-d8167b396b41">
+      <CreatedBy>_preiaen</CreatedBy>
+      <CreatedOn>2024-12-13T14:48:27</CreatedOn>
+      <ModifiedBy>_preiaen</ModifiedBy>
+      <ModifiedOn>2024-12-13T14:48:27</ModifiedOn>
+      <FirstName>Richard</FirstName>
+      <LastName>Duncan-Jones</LastName>
+      <Protected>false</Protected>
+      <Sex>2</Sex>
+      <SortFullName>duncan-jones, richard</SortFullName>
+      <UniqueFullName>26a6869b068fe65a5c5adaf0e916191cedab05c3</UniqueFullName>
+    </Person>
   </Persons>
   <References>
     <Reference id="bbc0549e-5fd8-4acd-b799-9c1ebe6d9fbc">
@@ -224,6 +236,7 @@
   </References>
   <ReferenceAuthors>
     <OnetoN>e54210c0-4909-4113-b0fe-2a3eddb41cb9;3a7b2137-cfb8-4613-adf0-1762eba33929</OnetoN>
+	 <OnetoN>bbc0549e-5fd8-4acd-b799-9c1ebe6d9fbc;aac1760d-7417-45f8-a852-d8167b396b41</OnetoN>
   </ReferenceAuthors>
   <Locations>
     <Location id="724c9b68-c466-4c5f-a349-4d52d6b61419">
